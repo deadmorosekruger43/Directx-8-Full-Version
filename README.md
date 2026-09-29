@@ -232,4 +232,4 @@ This repository serves as the official landing page for DirectX 8. The software 
 **Get the most recent version of DirectX 8 today!**
 
 ---
-**Last updated:** 2026-09-29 04:27:59 UTC
+**Last updated:** 2026-09-29 11:07:59 UTC
